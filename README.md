@@ -30,9 +30,9 @@ Navigate to the directory with the ipynb file, and then launch Jupyter:
 jupyter notebook
 ```
 
-## Author
+## Authors
 
-**Eli Halpern** 
+**Eli Halpern, Abolfazl Saghafi**
 
 ## License
 
