@@ -9,11 +9,12 @@ To run this file, make sure you have [Python 3.7.2](https://www.python.org/), [J
 ### Prerequisites
 
 * [Numpy](https://www.numpy.org/) >= 1.16.2
-* [Pandas](https://pandas.pydata.org/) >= 0.24.1
-* [Scikit-learn](https://scikit-learn.org/) >= 0.20.2
-* [Matplotlib](https://matplotlib.org/) >= 3.02
+* [Pandas](https://pandas.pydata.org/) >= 0.24.2
+* [Scikit-learn](https://scikit-learn.org/) >= 0.20.3
+* [Matplotlib](https://matplotlib.org/) >= 3.0.3
+* [DTW](https://github.com/pierre-rouanet/dtw) >= 1.0.4
 
-All these can be installed automatically using the [requirements.txt](requirements.txt) file:
+Most of these, except DTW, can be installed automatically using the [requirements.txt](requirements.txt) file:
 ```
 pip install -r requirements.txt
 ```
